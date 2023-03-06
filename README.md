@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erwkuvi
 - 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... I'm kind of new here, dunno
 - 📫 How to reach me ... 
 
