@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @erwkuvi
-- 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... C
-- 💞️ I’m looking to collaborate on ... I'm kind of new here, dunno
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... XR-Development
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... projects related to VR or AR
+- 📫 How to reach me ... e.kuechel@gmail.com
 
 <!---
 erwkuvi/erwkuvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
