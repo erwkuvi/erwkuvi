@@ -1,10 +1,7 @@
-
 ![Banner](https://raw.githubusercontent.com/erwkuvi/general_assets/main/sequence.gif)
-\# Personal touch
 Hi there! I'm Erwin! ✌️ 
 I'm a 3D Designer exploring code, passionate about creating 3D applications by combining various modeling tools and programming languages like C# and C++, and Python.
 
-\# Highlight Skills
 My journey started at 42 Wolfsburg, where I learned C/C++, which helped me to incorporate the developing part in unity for immersive VR/AR experiences.
 I have 8+ years of experience in 3D design, working with Cinema 4D, Blender, 3DSMax and V-Ray for high-end visualizations projects.
 
