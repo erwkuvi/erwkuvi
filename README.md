@@ -91,9 +91,16 @@ Make sure you enjoy them! 🤘🏼🎸🎧
 ![erwkuvi's Stats](https://github-readme-stats.vercel.app/api?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![erwkuvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
-<img src="https://gravatar.com/avatar/79673025361a9520a640141df0a37e3f?s=200" width="200" height="200" style="border-radius: 100px;"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://gravatar.com/avatar/79673025361a9520a640141df0a37e3f?s=200" width="200" height="200" style="border-radius: 100px;">
+    </td>
+    <td>
+      <h3>Let's Connect!</h3>
+      <p>If you're into <strong>3D, XR, or software development</strong>, feel free to reach out!<br>
+      I’m always open to collaborations, learning, and sharing ideas. 💻</p>
+    </td>
+  </tr>
+</table>
 
-### Let's Connect!
-
-If you're into 3D, XR, or software development, feel free to reach out!
-I’m always open to collaborations, learning, and sharing ideas. 💻
