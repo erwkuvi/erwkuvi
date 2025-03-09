@@ -50,18 +50,18 @@ I have 8+ years of experience in 3D design, working with Cinema 4D, Blender, 3DS
 ---
 ### Current Work
 
-##### VR Beauty Experience 🥽
+#### VR Beauty Experience 🥽
 
 I am currently working on a VR implementation of the Dow Beauty Experience, a 360° virtual experience I originally created in 2021 during the pandemic. This project focuses on transforming a web-based 360° virtual experience into an interactive VR environment for better engagement. The main challenge is optimizing performance & UX to ensure seamless interaction within the VR space. 
 You can check out the original version: [Dow Beauty Experience](https://dowhpc-virtual-experience-center.com/)
 
-##### XR Safety Training Simulation 🦺
+#### XR Safety Training Simulation 🦺
 
 This project's purpose is to train user in identifying important safety elements within a building using XR technology. Users will be able to see their real world environment, with an overlay highlighting key areas and elements for safety purposes.
 
 This project is being developed using **Unity** for immersive interaction and **Blender** for 3D asset creation.
 
-##### Building a basic GPU rendering with OpenGL
+#### Building a basic GPU rendering with OpenGL
 
 This project aims to develop a small program that renders and manipulates a 3D object, typically created with a 3D modeling program like Blender and stored in a .obj file format. The core functionality involves loading, parsing, and displaying the 3D object in a window with perspective rendering, meaning that objects farther away appear smaller. The object will rotate around its central symmetrical axis and can be moved along all three axes.
 
