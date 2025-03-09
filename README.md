@@ -61,7 +61,7 @@ This project's purpose is to train user in identifying important safety elements
 
 This project is being developed using **Unity** for immersive interaction and **Blender** for 3D asset creation.
 
-#### Building a basic GPU rendering with OpenGL
+#### Building a basic GPU rendering with OpenGL 🫖
 
 This project aims to develop a small program that renders and manipulates a 3D object, typically created with a 3D modeling program like Blender and stored in a .obj file format. The core functionality involves loading, parsing, and displaying the 3D object in a window with perspective rendering, meaning that objects farther away appear smaller. The object will rotate around its central symmetrical axis and can be moved along all three axes.
 
