@@ -19,7 +19,7 @@ I have 8+ years of experience in 3D design, working with Cinema 4D, Blender, 3DS
 
 ### Frameworks & Libraries
 
-![Frameworks](https://raw.githubusercontent.com/erwkuvi/general_assets/main/frameworks_logos.png)
+<img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/frameworks_logos.png" height="50"/>
 - Django (Django REST Framework) - Backend development for web applications
 - React - Frontend development for dynamic web interfaces
 - PostgreSQL - Database management system
@@ -28,7 +28,7 @@ I have 8+ years of experience in 3D design, working with Cinema 4D, Blender, 3DS
 
 ### 3D Modeling & XR Development Tools
 
-![Development Tools](https://raw.githubusercontent.com/erwkuvi/general_assets/main/tools_logos.png)
+<img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/tools_logos.png" height="50"/>
 - **Blender** – 3D modeling and animation
 - **Cinema 4D** – 3D design and rendering
 - **Unity** – Game development and real-time 3D rendering
@@ -38,7 +38,7 @@ I have 8+ years of experience in 3D design, working with Cinema 4D, Blender, 3DS
 
 ### Development & Deployment Tools
 
-![Deployment Tools](https://raw.githubusercontent.com/erwkuvi/general_assets/main/dev_logos.png)
+<img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/dev_logos.png" height="50"/>
 - **Git & GitHub** – Version control and collaboration
 - **Linux/Unix** – Likely for development and deployment environments
 - **VS Code / PyCharm / NeoVim** – Code editors and IDEs
@@ -80,7 +80,7 @@ This project aims to develop a small program that renders and manipulates a 3D o
 ---
 #### Fun Fact:
 
-To enter into a flow state while coding I listen heavy metal music. 
+To enter into a flow state while coding I listen heavy metal/djent music. 
 Here I'll share 2 playlists:
 
 - [Djenty](https://open.spotify.com/playlist/5vmDLwFo20z2pCphlvo7Yd?si=25b6eda903364dbb)
