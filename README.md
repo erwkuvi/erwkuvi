@@ -86,6 +86,8 @@ Here I'll share 2 playlists:
 - [Djenty](https://open.spotify.com/playlist/5vmDLwFo20z2pCphlvo7Yd?si=25b6eda903364dbb)
 - [Instrumental Core Mix](https://open.spotify.com/playlist/0K5WqSWAFrcKyXizE8ZuRF?si=6b8797e1b9304ab6)
 
+Make sure you enjoy them! 🤘🏼🎸🎧
+
 ---
 ![erwkuvi's Stats](https://github-readme-stats.vercel.app/api?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![erwkuvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
