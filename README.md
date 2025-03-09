@@ -91,6 +91,8 @@ Here I'll share 2 playlists:
 
 
 <img src="https://gravatar.com/avatar/79673025361a9520a640141df0a37e3f?s=200" width="200" height="200" style="border-radius: 100px;"/>
+
 ### Let's Connect!
+
 If you're into 3D, XR, or software development, feel free to reach out!
 I’m always open to collaborations, learning, and sharing ideas. 💻
