@@ -101,6 +101,7 @@ Make sure you enjoy them! 🤘🏼🎸🎧
       <h3>Let's Connect!</h3>
       <p>If you're into <strong>3D, XR, or software development</strong>, feel free to reach out!<br>
       I’m always open to collaborations, learning, and sharing ideas. 💻</p>
+      [![LinkedIn - Let's connect](https://img.shields.io/badge/LinkedIn-Let's_connect-inactive?style=for-the-badge)](https://www.linkedin.com/in/erwin-kuechel/)
     </td>
   </tr>
 </table>
