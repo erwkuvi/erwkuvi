@@ -41,13 +41,13 @@ My journey started at [42 Wolfsburg](https://42wolfsburg.de/de/), where I learne
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/dev_logos.png" height="50"/>
 
-- **Git & GitHub** – Version control and collaboration
-- **Linux/Unix** – Likely for development and deployment environments
-- **VS Code / PyCharm / NeoVim** – Code editors and IDEs
-- **Docke**r – For containerized applications
-- **Arduino IDE** - uploading code to microcontrollers
-- **Postma**n – API testing and development
-- **Figma** – UI/UX design
+- **Git & GitHub** –> Version control and collaboration
+- **Linux/Unix** –> Likely for development and deployment environments
+- **VS Code / PyCharm / NeoVim** –> Code editors and IDEs
+- **Docke**r –> For containerized applications
+- **Arduino IDE** -> uploading code to microcontrollers
+- **Postma**n –> API testing and development
+- **Figma** –> UI/UX design
 
 ---
 ### Current Work
