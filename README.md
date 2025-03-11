@@ -19,25 +19,28 @@ My journey started at [42 Wolfsburg](https://42wolfsburg.de/de/), where I learne
 ### Frameworks & Libraries
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/frameworks_logos.png" height="50"/>
-- Django (Django REST Framework) - Backend development for web applications
-- React - Frontend development for dynamic web interfaces
-- PostgreSQL - Database management system
-- Nginx - Reverse proxy and web server
-- Docker & Docker Compose - Containerization for application deployment
+
+- Django (Django REST Framework) -> Backend development for web applications
+- React -> Frontend development for dynamic web interfaces
+- PostgreSQL -> Database management system
+- Nginx -> Reverse proxy and web server
+- Docker & Docker Compose -> Containerization for application deployment
 
 ### 3D Modeling & XR Development Tools
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/tools_logos.png" height="50"/>
-- **Blender** – 3D modeling and animation
-- **Cinema 4D** – 3D design and rendering
-- **Unity** – Game development and real-time 3D rendering
-- **Unreal Engine** – Game development and real-time 3D rendering
-- **V-Ray** – High-quality rendering for 3D projects
-- **Fusion 360** - 3D modeling and printing
+
+- **Blender** –> 3D modeling and animation
+- **Cinema 4D** –> 3D design and rendering
+- **Unity** –> Game development and real-time 3D rendering
+- **Unreal Engine** –> Game development and real-time 3D rendering
+- **V-Ray** –> High-quality rendering for 3D projects
+- **Fusion 360** -> 3D modeling and printing
 
 ### Development & Deployment Tools
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/dev_logos.png" height="50"/>
+
 - **Git & GitHub** – Version control and collaboration
 - **Linux/Unix** – Likely for development and deployment environments
 - **VS Code / PyCharm / NeoVim** – Code editors and IDEs
