@@ -13,6 +13,7 @@ My journey started at [42 Wolfsburg](https://42wolfsburg.de/de/), where I learne
 | Python   | backend development 🔙             |
 | SQL      | database queries and management 📅 |
 | C & C++  | General programing / Arduino 👨‍💻 |
+| Javascript  | React, Three.JS 👨‍💻 |
 
 ---
 
