@@ -130,7 +130,7 @@ Here are two playlists I often code to:
 
 <div>  
   <span> Let's Connect </span><a href="https://www.linkedin.com/in/erwin-kuechel/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">
   </a>
 </div>
 
