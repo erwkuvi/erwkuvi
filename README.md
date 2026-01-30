@@ -1,114 +1,144 @@
 ![Banner](https://raw.githubusercontent.com/erwkuvi/general_assets/main/sequence.gif)
-Hi there! I'm Erwin! ✌️ 
-I'm a 3D Designer exploring code, passionate about creating 3D applications by combining various modeling tools and programming languages like C and C++, and Python.
+Hi there! I'm Erwin 👋  
+**Frontend / Full-Stack-ish Developer** with a strong background in **JavaScript, React, and interactive 3D experiences**.
 
-My journey started at [42 Wolfsburg](https://42wolfsburg.de/de/), where I learned C/C++, which allowed me to integrate development into Unity for immersive VR/AR experiences. I have over 8 years of experience in 3D design, working with Cinema 4D, Blender, 3ds Max, and V-Ray to create high-end visualization projects.
+I'm currently focused on building **modern web applications** using **React, TypeScript, and APIs**, with a special interest in **interactive and visual products (Three.js / WebGL)**.
+
+I bring a unique combination of:
+- Solid Software development fundamentals
+- Frontend engineering mindset
+- +10 years of professional experience in 3D & real-time visualization.
+
+This allows me to build **user interfaces that are not only functional, but engaging and technically well-structured**.
 
 ---
+
+## Tech Stack
+
 ### Languages
 
-| Language | User For                           |
+| Language | Usage                           |
 | -------- | ---------------------------------- |
-| C#       | XR development 🥽                  |
-| Python   | backend development 🔙             |
-| SQL      | database queries and management 📅 |
-| C & C++  | General programing / Arduino 👨‍💻 |
-| TS & Javascript  | React, Three.JS 👨‍💻 |
+| JavaScript (ES6+) | Frontend development, React |
+| TypeScript | Typed frontend & scalable codebases |
+| Python   | Backend development (APIs, services) |
+| SQL      | Database queries & data modeling |
+| C / C++  | Systems programming & graphics fundamentals |
+| C#       | XR / Unity development |
 
 ---
 
-### Frameworks & Libraries
+### Frontend & Backend
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/frameworks_logos.png" height="50"/>
 
-- Django (Django REST Framework) -> Backend development for web applications
-- React -> Frontend development for dynamic web interfaces
-- PostgreSQL -> Database management system
-- Nginx -> Reverse proxy and web server
-- Docker & Docker Compose -> Containerization for application deployment
+- **React** - Component-based UI, hooks, state management
+- **Django (Django REST Framework)** - Backend APIs
+- **PostgreSQL** - Relational database design
+- **Nginx** - Web server & reverse proxy
+- **Docker & Docker Compose** - Local development & deployment
 
-### 3D Modeling & XR Development Tools
+---
+
+### 3D / Interactive Technologies (Differentiator)
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/tools_logos.png" height="50"/>
 
-- **Blender** –> 3D modeling and animation
-- **Cinema 4D** –> 3D design and rendering
-- **Unity** –> Game development and real-time 3D rendering
-- **Unreal Engine** –> Game development and real-time 3D rendering
-- **V-Ray** –> High-quality rendering for 3D projects
-- **Fusion 360** -> 3D modeling and printing
+- **Three.js / WebGL** - Interactive 3D on the web
+- **Blender / Cinema 4D / 3ds Max** – 3D assets & pipelines
+- **Unity / Unreal Engine** – Real-time 3D & XR experiences
+- **V-Ray** –> High-quality rendering
 
-### Development & Deployment Tools
+> I leverage my 3D background to create **interactive frontend experiences**, not just static UIs.
+
+---
+
+### Tooling & Workflow
 
 <img src="https://raw.githubusercontent.com/erwkuvi/general_assets/main/dev_logos.png" height="50"/>
 
-- **Git & GitHub** –> Version control and collaboration
-- **Linux/Unix** –> Likely for development and deployment environments
-- **VS Code / PyCharm / NeoVim** –> Code editors and IDEs
-- **Docke**r –> For containerized applications
-- **Arduino IDE** -> uploading code to microcontrollers
-- **Postma**n –> API testing and development
-- **Figma** –> UI/UX design
+- Git & GitHub (collaborative workflows)
+- Linux / Unix environments
+- VS Code / PyCharm / NeoVim
+- Postman (API testing)
+- Figma (UI/UX collaboration)
 
 ---
-### Current Work
 
-#### VR Beauty Experience 🥽
+## Current Focus & Projects
 
-I am currently working on a VR implementation of the Dow Beauty Experience, a 360° virtual experience I originally created in 2021 during the pandemic. This project focuses on transforming a web-based 360° virtual experience into an interactive VR environment for better engagement. The main challenge is optimizing performance & UX to ensure seamless interaction within the VR space. 
-You can check out the original version: [Dow Beauty Experience](https://dowhpc-virtual-experience-center.com/)
+### Frontend Developer - Startup-style Project (Remote)
+**React · JavaScript · APIs**
 
-#### XR Safety Training Simulation 🦺
-
-This project's purpose is to train user in identifying important safety elements within a building using XR technology. Users will be able to see their real world environment, with an overlay highlighting key areas and elements for safety purposes.
-
-This project is being developed using **Unity** for immersive interaction and **Blender** for 3D asset creation.
-
-#### Building a basic GPU rendering with OpenGL 🫖
-
-This project aims to develop a small program that renders and manipulates a 3D object, typically created with a 3D modeling program like Blender and stored in a .obj file format. The core functionality involves loading, parsing, and displaying the 3D object in a window with perspective rendering, meaning that objects farther away appear smaller. The object will rotate around its central symmetrical axis and can be moved along all three axes.
+- Building reusable UI components with React
+- Managing client-side state and data fetching
+- Collaborating with backend and technical lead
+- Translating product requirements into functional interfaces
 
 ---
-### Contact 
+
+#### Spatial Link - Remote Collaboration (XR Development) 🦺
+
+Real-time XR platform for shared spatial collaboration
+
+- Live streaming of real-world environments in 3D
+- Remote expert guidance with avatars, hands, and voice
+- Free spatial navigatin for remote users
+- Shared mixed environments enhanced with digital assets
+
+---
+
+### VR Beauty Experience 🥽
+Rebuilding a web-based 360° experience into an **interactive VR application**, focusing on:
+
+- Performance optimization
+- UX in immersive environments
+- Real-time interaction
+
+👉 Original web version:  
+[Dow Beauty Experience](https://dowhpc-virtual-experience-center.com/)
+ 
+
+---
+
+## What I'm looking for
+
+- **Frontend Developer** roles (React / TypeScript)
+- **Full-Stack-ish** roles where frontend is the main focus
+- Product-oriented teams
+- Startups or companies building **interactive, user-centric products**
+
+Based in Wolfsburg, Germany | Open to Remote / Hybrid / Onsite in Europe
+
+---
+
+### Let's Connect
 <div align="center">
   <a href="https://www.behance.net/erwkuvi">
-    <img src="https://cdn-icons-png.flaticon.com/512/2496/2496088.png" width="40" height="40" style="border-radius: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2496/2496088.png" width="40">
   </a>  
-
   <a href="https://www.linkedin.com/in/erwin-kuechel/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
   </a>
 </div>
 
 ---
+
 #### Fun Fact:
 
-To enter into a flow state while coding I listen heavy metal/djent music. 
-Here I'll share 2 playlists:
+To enter flow state while coding I listen **heavy metal/djent** 
+Here are two playlists I often code to:
 
 - [Djenty](https://open.spotify.com/playlist/5vmDLwFo20z2pCphlvo7Yd?si=25b6eda903364dbb)
 - [Instrumental Core Mix](https://open.spotify.com/playlist/0K5WqSWAFrcKyXizE8ZuRF?si=6b8797e1b9304ab6)
 
+---
+
 Make sure you enjoy them! 🤘🏼🎸🎧
 
 ---
-![erwkuvi's Stats](https://github-readme-stats.vercel.app/api?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![erwkuvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![erwkuvi's Stats](https://github-readme-stats.vercel.app/api?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![erwkuvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-<table>
-  <tr>
-    <td>
-      <img src="https://gravatar.com/avatar/79673025361a9520a640141df0a37e3f?s=200" width="200" height="200" style="border-radius: 100px;">
-    </td>
-    <td>
-      <h3>Let's Connect!</h3>
-      <p>If you're into <strong>3D, XR, or software development</strong>, feel free to reach out!<br>
-      I’m always open to collaborations, learning, and sharing ideas. 💻</p>
-    </td>
-  </tr>
-</table>
-
-
-[![LinkedIn - Let's connect](https://img.shields.io/badge/LinkedIn-Let's_connect-inactive?style=for-the-badge)](https://www.linkedin.com/in/erwin-kuechel/)
-
