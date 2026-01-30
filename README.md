@@ -115,10 +115,7 @@ Based in Wolfsburg, Germany | Open to Remote / Hybrid / Onsite in Europe
 ---
 
 ### Let's Connect
-<div align="center">
-  <a href="https://www.behance.net/erwkuvi">
-    <img src="https://cdn-icons-png.flaticon.com/512/2496/2496088.png" width="40">
-  </a>  
+<div align="center">  
   <a href="https://www.linkedin.com/in/erwin-kuechel/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
   </a>
@@ -133,10 +130,6 @@ Here are two playlists I often code to:
 
 - [Djenty](https://open.spotify.com/playlist/5vmDLwFo20z2pCphlvo7Yd?si=25b6eda903364dbb)
 - [Instrumental Core Mix](https://open.spotify.com/playlist/0K5WqSWAFrcKyXizE8ZuRF?si=6b8797e1b9304ab6)
-
----
-
-Make sure you enjoy them! 🤘🏼🎸🎧
 
 ---
 
