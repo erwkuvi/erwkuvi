@@ -114,15 +114,6 @@ Based in Wolfsburg, Germany | Open to Remote / Hybrid / Onsite in Europe
 
 ---
 
-### Let's Connect
-<div align="center">  
-  <a href="https://www.linkedin.com/in/erwin-kuechel/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
-  </a>
-</div>
-
----
-
 #### Fun Fact:
 
 To enter flow state while coding I listen **heavy metal/djent** 
@@ -133,7 +124,13 @@ Here are two playlists I often code to:
 
 ---
 
-![erwkuvi's Stats](https://github-readme-stats.vercel.app/api?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![erwkuvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
+
+<div align="center">  
+  <span> Let's Connect </span><a href="https://www.linkedin.com/in/erwin-kuechel/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+  </a>
+</div>
+
