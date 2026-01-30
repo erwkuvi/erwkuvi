@@ -1,5 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/erwkuvi/general_assets/main/sequence.gif)
-Hi there! I'm Erwin 👋  
+
+Hi there! I'm Erwin 👋
+
 **Frontend / Full-Stack-ish Developer** with a strong background in **JavaScript, React, and interactive 3D experiences**.
 
 I'm currently focused on building **modern web applications** using **React, TypeScript, and APIs**, with a special interest in **interactive and visual products (Three.js / WebGL)**.
