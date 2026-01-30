@@ -123,7 +123,7 @@ Here are two playlists I often code to:
 - [Instrumental Core Mix](https://open.spotify.com/playlist/0K5WqSWAFrcKyXizE8ZuRF?si=6b8797e1b9304ab6)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwkuvi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/erwkuvi?cardType=github&theme=darcula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ![erwkuvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwkuvi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
