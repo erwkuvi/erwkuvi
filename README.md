@@ -6,7 +6,7 @@ Hi there! I'm Erwin 👋
 
 I'm currently focused on building **modern web applications** using **React, TypeScript, and APIs**, with a special interest in **interactive and visual products (Three.js / WebGL)**.
 
-I bring a unique combination of:
+I bring an unique combination of:
 - Solid Software development fundamentals
 - Frontend engineering mindset
 - +10 years of professional experience in 3D & real-time visualization.
