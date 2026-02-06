@@ -79,7 +79,7 @@ This allows me to build **user interfaces that are not only functional, but enga
 
 ---
 
-#### Spatial Link - Remote Collaboration (XR Development) 🦺
+### Spatial Link - Remote Collaboration (XR Development) 🦺
 
 Real-time XR platform for shared spatial collaboration
 
